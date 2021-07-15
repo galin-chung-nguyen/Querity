@@ -51,10 +51,10 @@
     <ClInclude Include="program.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="createMetadata.h">
+    <ClInclude Include="filePath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="filePath.h">
+    <ClInclude Include="createMetadata.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -66,9 +66,6 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="TOKENSLIST.cpp" />
-    <ClCompile Include="createMetadata.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="program.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -76,6 +73,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="filePath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="createMetadata.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

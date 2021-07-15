@@ -244,9 +244,10 @@ void searchEngineObject::search(TextFile* textData, wchar_t rawSearchQuery[], TO
 
 	if (cntRes <= 0) wprintf(L"\nYour search - '%s' - did not match any documents.\n", searchQueryStr.c_str());
 	else {
-		for (int i = 0; i < cntRes; ++i) {
+		for (int i = 0; i < min(cntRes,15); ++i) {
 			wcout << i + 1 << ", " << res[i].second->filePath.c_str() << " (" << res[i].first << ")\n";
 		}
+		if (cntRes > 15) wcout << "...\n";
 		wcout << "\n" << cntRes << " results found in " << (double)((clock() - startTime) / CLOCKS_PER_SEC) << " seconds !!!\n";
 	}
 

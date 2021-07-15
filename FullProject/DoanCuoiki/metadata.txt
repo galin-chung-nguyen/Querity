@@ -1,122 +1,120 @@
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1573).txt
-bang[0.05109] vong[0.03285] doi[0.02555] cup[0.02190] 2007[0.02190] dau[0.02190] asian[0.01825] a[0.01825] du[0.01825] hai[0.01825] d[0.01825] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1574).txt
-juve[0.03553] vieira[0.03046] toi[0.03046] arsenal[0.02538] n[0.02538] doi[0.02538] bong[0.02538] phu[0.01523] tien[0.01523] ve[0.01523] dong[0.01523] song[0.01523] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1575).txt
-maniche[0.02787] dong[0.02439] thu[0.02439] doi[0.02091] mua[0.02091] mourinho[0.01742] chelsea[0.01742] ve[0.01742] nga[0.01742] cau[0.01742] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1576).txt
-doi[0.03221] bang[0.02541] vong[0.02495] dau[0.01906] hai[0.01633] cup[0.01543] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1577).txt
-17[0.03771] ban[0.01676] doi[0.01536] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1578).txt
-chelsea[0.03704] doi[0.03704] the[0.02646] neville[0.02116] mu[0.02116] bong[0.02116] u[0.02116] tuong[0.01587] dau[0.01587] anh[0.01587] hai[0.01587] giua[0.01587] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1579).txt
-bong[0.02018] t[0.01794] y[0.01794] doi[0.01794] van[0.01794] ban[0.01570] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1580).txt
-1[0.03235] 2[0.02813] 3[0.02250] ket[0.02110] 0[0.02110] doi[0.02110] tran[0.01688] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1581).txt
-tien[0.03846] ve[0.03846] inter[0.01923] cesar[0.01923] lazio[0.01923] thu[0.01923] nhuong[0.01603] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Bong da/BD_VNE_ (1582).txt
-newcastle[0.03879] thu[0.02586] hang[0.02155] n[0.02155] mua[0.02155] boumsong[0.02155] s[0.01724] tuyen[0.01724] gia[0.01724] anh[0.01724] rangers[0.01724] souness[0.01724] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (1).txt
-cong[0.04458] ty[0.04309] nam[0.03566] viet[0.03269] singapore[0.03120] niem[0.02675] yet[0.02675] the[0.01783] tu[0.01783] dau[0.01634] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (134).txt
-quy[0.04135] dau[0.04135] tu[0.03522] gia[0.03216] chung[0.02603] vf1[0.02450] mua[0.01991] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (2).txt
-ty[0.03479] khoan[0.03222] truong[0.02964] cong[0.02964] co[0.02835] chung[0.02706] dau[0.02577] thi[0.02320] dong[0.02320] tu[0.01804] phieu[0.01804] niem[0.01675] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (34).txt
-co[0.03143] dau[0.02554] dong[0.02358] niem[0.02161] yet[0.02063] ttck[0.01965] ty[0.01866] tu[0.01768] cong[0.01768] quy[0.01768] doanh[0.01670] chung[0.01572] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (54).txt
-n[0.03343] truong[0.03191] hang[0.02888] thi[0.02584] ng[0.02584] noi[0.02432] viet[0.02280] nam[0.02280] dau[0.02128] ha[0.02128] dong[0.02128] von[0.01520] dinh[0.01520] hoat[0.01520] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (67).txt
-gia[0.05484] dau[0.05161] co[0.03226] ty[0.02903] 000[0.02258] dong[0.02258] cong[0.01935] chung[0.01613] khoan[0.01613] ha[0.01613] noi[0.01613] phien[0.01613] tu[0.01613] 10[0.01613] tien[0.01613] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (71).txt
-dau[0.07449] tu[0.06518] n[0.03911] ty[0.03538] gia[0.02793] co[0.02793] cong[0.02793] quy[0.02793] ca[0.02235] nh[0.02235] von[0.01676] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (77).txt
-tu[0.04494] dau[0.04213] von[0.03090] doanh[0.02388] nganh[0.01685] nghiep[0.01685] ty[0.01545] gia[0.01545] dinh[0.01545] vn[0.01545] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (80).txt
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1573).txt
+bang[0.05364] vong[0.03448] doi[0.02682] cup[0.02299] 2007[0.02299] dau[0.02299] asian[0.01916] a[0.01916] du[0.01916] hai[0.01916] ket[0.01533] boc[0.01533] tham[0.01533] chau[0.01533] afc[0.01533] nam[0.01533] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1574).txt
+juve[0.03684] vieira[0.03158] toi[0.03158] arsenal[0.02632] doi[0.02632] bong[0.02632] phu[0.01579] tien[0.01579] ve[0.01579] dong[0.01579] song[0.01579] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1575).txt
+maniche[0.02827] dong[0.02473] thu[0.02473] doi[0.02120] mua[0.02120] mourinho[0.01767] chelsea[0.01767] ve[0.01767] nga[0.01767] cau[0.01767] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1576).txt
+doi[0.03344] bang[0.02638] vong[0.02591] dau[0.01978] hai[0.01696] cup[0.01602] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1577).txt
+17[0.03902] ban[0.01734] doi[0.01590] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1578).txt
+chelsea[0.03889] doi[0.03889] the[0.02778] neville[0.02222] mu[0.02222] bong[0.02222] tuong[0.01667] dau[0.01667] anh[0.01667] hai[0.01667] giua[0.01667] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1579).txt
+bong[0.02098] doi[0.01865] van[0.01865] ban[0.01632] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1580).txt
+1[0.03286] 2[0.02857] 3[0.02286] ket[0.02143] 0[0.02143] doi[0.02143] tran[0.01714] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1581).txt
+tien[0.03922] ve[0.03922] inter[0.01961] cesar[0.01961] lazio[0.01961] thu[0.01961] nhuong[0.01634] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Bong da/BD_VNE_ (1582).txt
+newcastle[0.04072] thu[0.02715] hang[0.02262] mua[0.02262] boumsong[0.02262] san[0.01810] tuyen[0.01810] gia[0.01810] anh[0.01810] rangers[0.01810] souness[0.01810] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (1).txt
+cong[0.04594] ty[0.04441] nam[0.03675] viet[0.03369] singapore[0.03216] niem[0.02757] yet[0.02757] the[0.01838] dau[0.01685] tu[0.01685] dich[0.01531] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (134).txt
+quy[0.04232] dau[0.04232] tu[0.03605] gia[0.03292] chung[0.02665] vf1[0.02508] mua[0.02038] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (2).txt
+ty[0.03539] khoan[0.03277] truong[0.03014] cong[0.03014] co[0.02883] chung[0.02752] dau[0.02621] thi[0.02359] dong[0.02359] tu[0.01835] phieu[0.01835] niem[0.01704] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (34).txt
+co[0.03203] dau[0.02603] dong[0.02402] niem[0.02202] yet[0.02102] ttck[0.02002] ty[0.01902] tu[0.01802] cong[0.01802] quy[0.01802] doanh[0.01702] chung[0.01602] doi[0.01502] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (54).txt
+truong[0.03355] hang[0.03035] thi[0.02716] noi[0.02556] ngan[0.02396] viet[0.02396] nam[0.02396] dau[0.02236] ha[0.02236] dong[0.02236] von[0.01597] dinh[0.01597] hoat[0.01597] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (67).txt
+gia[0.05611] dau[0.05281] co[0.03300] ty[0.02970] 000[0.02310] dong[0.02310] cong[0.01980] chung[0.01650] khoan[0.01650] ha[0.01650] noi[0.01650] phien[0.01650] tu[0.01650] 10[0.01650] tien[0.01650] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (71).txt
+dau[0.07921] tu[0.06931] ty[0.03762] gia[0.02970] co[0.02970] cong[0.02970] quy[0.02970] ca[0.02376] nhan[0.02376] von[0.01782] san[0.01584] dong[0.01584] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (77).txt
+tu[0.04565] dau[0.04280] von[0.03138] doanh[0.02425] nganh[0.01712] nghiep[0.01712] ty[0.01569] gia[0.01569] dinh[0.01569] vn[0.01569] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (80).txt
 dau[0.04098] tu[0.04098] quy[0.03279] von[0.03279] bo[0.03279] che[0.02459] nganh[0.02459] ii[0.01639] gop[0.01639] yeu[0.01639] cau[0.01639] cong[0.01639] danh[0.01639] muc[0.01639] nghe[0.01639] linh[0.01639] vuc[0.01639] the[0.01639] tham[0.01639] gia[0.01639] nam[0.01639] ty[0.01639] thu[0.01639] tuong[0.01639] doi[0.01639] ban[0.01639] hanh[0.01639] co[0.01639] doanh[0.01639] nghiep[0.01639] dung[0.01639] chi[0.01639] thi[0.01639] phuong[0.01639] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Chung khoan/CK_VNE_ (98).txt
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Chung khoan/CK_VNE_ (98).txt
 co[0.05917] gia[0.05325] san[0.04734] ty[0.04142] dong[0.03550] cong[0.02959] dau[0.02959] an[0.02959] go[0.02959] noi[0.02367] doanh[0.02367] pham[0.02367] ha[0.01775] bot[0.01775] my[0.01775] che[0.01775] bien[0.01775] thuan[0.01775] xuat[0.01775] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (122).txt
-game[0.06106] thu[0.02578] chau[0.01900] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (137).txt
-san[0.03689] pham[0.03279] thi[0.02186] dung[0.02049] gia[0.01776] n[0.01776] sinh[0.01639] do[0.01503] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (147).txt
-may[0.02869] pda[0.02700] o2[0.02194] n[0.01857] dong[0.01688] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (195).txt
-windows[0.02802] worm[0.02222] settings[0.02222] internet[0.01932] software[0.01836] xrobots[0.01739] microsoft[0.01643] file[0.01546] exe[0.01546] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (207).txt
-registry[0.06387] windows[0.04380] thong[0.03832] luu[0.03467] chinh[0.01825] sua[0.01642] nhanh[0.01642] dung[0.01642] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (211).txt
-quan[0.03033] dung[0.02559] internet[0.02085] van[0.02085] ly[0.01706] ta[0.01611] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (235).txt
-viet[0.03420] nam[0.03094] gates[0.02932] dinh[0.01629] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (272).txt
-tre[0.05451] dung[0.01874] the[0.01874] game[0.01874] may[0.01704] mem[0.01704] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (323).txt
-dung[0.02408] may[0.02266] anh[0.02125] cong[0.01700] hinh[0.01558] nghe[0.01558] do[0.01558] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (344).txt
-dan[0.02393] doi[0.01889] chien[0.01889] cod2[0.01763] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (289).txt
-tinh[0.08304] duc[0.06055] dong[0.02422] gioi[0.02249] nam[0.02076] phu[0.01903] doi[0.01557] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (290).txt
-tinh[0.03654] duc[0.03654] nu[0.02990] phu[0.02824] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (291).txt
-tinh[0.03935] cam[0.03009] khoai[0.02778] nu[0.02778] duc[0.02778] the[0.02546] phu[0.02083] sinh[0.01852] roi[0.01620] loan[0.01620] doi[0.01620] n[0.01620] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (292).txt
-kinh[0.03255] phu[0.03074] chung[0.02532] cam[0.02532] nu[0.02170] tien[0.02170] dong[0.01989] do[0.01627] hooc[0.01627] mon[0.01627] doi[0.01627] the[0.01627] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (293).txt
-m[0.05396] doi[0.03597] tinh[0.03597] nhac[0.03237] duc[0.02878] kich[0.02158] cam[0.02158] song[0.01799] giac[0.01799] co[0.01799] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (294).txt
-nu[0.03801] phu[0.02632] dan[0.02339] hen[0.02047] doi[0.01754] trong[0.01754] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (295).txt
-tinh[0.03448] mon[0.02586] yeu[0.02586] cam[0.02586] hung[0.02586] phan[0.02586] thuc[0.02155] chat[0.02155] chocolate[0.01724] tac[0.01724] y[0.01724] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (296).txt
-tinh[0.04062] ta[0.03750] duc[0.03125] song[0.02812] cam[0.02500] anh[0.01875] me[0.01875] huong[0.01563] neu[0.01563] the[0.01563] thuc[0.01563] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (297).txt
-duong[0.02505] benh[0.02505] cuong[0.02088] doi[0.01670] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Gioi tinh/GT_NLD_ (298).txt
-cam[0.03922] bao[0.02745] the[0.02353] su[0.02353] tro[0.01569] vo[0.01569] noi[0.01569] lo[0.01569] chong[0.01569] xuc[0.01569] phu[0.01569] nu[0.01569] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (340).txt
-loi[0.07101] bao[0.05917] mat[0.03550] wmf[0.02959] anh[0.02959] windows[0.02959] hien[0.02367] lo[0.02367] cong[0.02367] file[0.02367] thong[0.02367] hong[0.01775] huong[0.01775] y[0.01775] phat[0.01775] sinh[0.01775] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (341).txt
-loi[0.08911] bao[0.08911] mat[0.06931] y[0.04950] g[0.03960] hai[0.03960] internet[0.01980] explorer[0.01980] 6[0.01980] thong[0.01980] cong[0.01980] ty[0.01980] the[0.01980] windows[0.01980] secunia[0.01980] do[0.01980] microsoft[0.01980] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (342).txt
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (122).txt
+game[0.06294] thu[0.02657] chau[0.01958] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (137).txt
+san[0.03949] pham[0.03385] thi[0.02257] dung[0.02116] gia[0.01834] sinh[0.01693] do[0.01551] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (147).txt
+may[0.02969] pda[0.02795] o2[0.02271] dong[0.01747] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (195).txt
+windows[0.02871] worm[0.02277] settings[0.02277] internet[0.01980] software[0.01881] xrobots[0.01782] microsoft[0.01683] file[0.01584] exe[0.01584] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (207).txt
+registry[0.06691] windows[0.04461] thong[0.03903] luu[0.03532] chinh[0.01859] sua[0.01673] nhanh[0.01673] dung[0.01673] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (211).txt
+quan[0.03171] dung[0.02775] internet[0.02180] van[0.02180] ly[0.01784] ta[0.01685] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (235).txt
+viet[0.03547] nam[0.03209] gates[0.03041] dinh[0.01689] cong[0.01520] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (272).txt
+tre[0.05634] dung[0.01937] the[0.01937] game[0.01937] may[0.01761] mem[0.01761] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (323).txt
+dung[0.02457] may[0.02312] anh[0.02168] cong[0.01734] hinh[0.01590] nghe[0.01590] do[0.01590] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Giai tri tin hoc/GTTH_TT_ (344).txt
+dan[0.02471] chien[0.02081] doi[0.01951] cod2[0.01821] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (289).txt
+tinh[0.08481] duc[0.06184] dong[0.02473] gioi[0.02297] nam[0.02120] phu[0.01943] doi[0.01590] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (290).txt
+tinh[0.03774] duc[0.03774] nu[0.03087] phu[0.02916] trung[0.01544] song[0.01544] doi[0.01544] man[0.01544] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (291).txt
+tinh[0.04116] cam[0.03148] khoai[0.02906] nu[0.02906] duc[0.02906] the[0.02663] phu[0.02179] sinh[0.01937] roi[0.01695] loan[0.01695] doi[0.01695] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (292).txt
+kinh[0.03340] phu[0.03154] chung[0.02597] cam[0.02597] nu[0.02226] tien[0.02226] dong[0.02041] do[0.01670] hooc[0.01670] mon[0.01670] doi[0.01670] the[0.01670] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (293).txt
+am[0.05861] doi[0.03663] tinh[0.03663] nhac[0.03297] duc[0.02930] kich[0.02198] cam[0.02198] song[0.01832] giac[0.01832] co[0.01832] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (294).txt
+nu[0.03846] phu[0.02663] dan[0.02367] hen[0.02071] doi[0.01775] trong[0.01775] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (295).txt
+tinh[0.03556] mon[0.02667] yeu[0.02667] cam[0.02667] hung[0.02667] phan[0.02667] thuc[0.02222] chat[0.02222] chocolate[0.01778] tac[0.01778] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (296).txt
+tinh[0.04127] ta[0.03810] duc[0.03175] song[0.02857] cam[0.02540] anh[0.01905] me[0.01905] huong[0.01587] neu[0.01587] the[0.01587] thuc[0.01587] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (297).txt
+duong[0.02570] benh[0.02570] cuong[0.02141] doi[0.01713] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Gioi tinh/GT_NLD_ (298).txt
+cam[0.04098] the[0.02869] bao[0.02869] su[0.02459] tro[0.01639] vo[0.01639] noi[0.01639] lo[0.01639] chong[0.01639] xuc[0.01639] phu[0.01639] nu[0.01639] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (340).txt
+loi[0.07362] bao[0.06135] mat[0.03681] wmf[0.03067] anh[0.03067] windows[0.03067] hien[0.02454] lo[0.02454] cong[0.02454] file[0.02454] thong[0.02454] hong[0.01840] huong[0.01840] phat[0.01840] sinh[0.01840] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (341).txt
+loi[0.09890] bao[0.09890] mat[0.07692] hai[0.04396] internet[0.02198] explorer[0.02198] 6[0.02198] thong[0.02198] cong[0.02198] ty[0.02198] the[0.02198] windows[0.02198] secunia[0.02198] do[0.02198] microsoft[0.02198] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (342).txt
 microsoft[0.11448] office[0.05387] loi[0.04040] works[0.03030] bao[0.02694] 2000[0.02694] mat[0.02357] service[0.02357] pack[0.02357] suite[0.02357] excel[0.02020] dung[0.01684] phien[0.01684] 2003[0.01684] mac[0.01684] 2002[0.01684] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (343).txt
-loi[0.07143] bao[0.06044] mat[0.04945] va[0.03846] xuat[0.02747] hien[0.02747] cong[0.02747] mac[0.02747] x[0.02747] os[0.02198] ty[0.01648] kien[0.01648] dot[0.01648] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (344).txt
-y[0.03252] mac[0.02439] bluetooth[0.02439] l[0.02439] may[0.02439] thiet[0.02439] hai[0.02439] 1[0.01626] s[0.01626] u[0.01626] cong[0.01626] os[0.01626] x[0.01626] inqtana[0.01626] loi[0.01626] lo[0.01626] he[0.01626] hanh[0.01626] nhiem[0.01626] tuy[0.01626] nhien[0.01626] danh[0.01626] gia[0.01626] do[0.01626] huong[0.01626] the[0.01626] han[0.01626] virus[0.01626] xu[0.01626] dan[0.01626] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (345).txt
-loi[0.06364] 1[0.04545] bao[0.03636] mat[0.03636] firefox[0.03636] khai[0.03636] thac[0.03636] ma[0.02727] phat[0.02727] 5[0.02727] cong[0.02727] mozilla[0.02727] doan[0.01818] tan[0.01818] nguy[0.01818] the[0.01818] su[0.01818] bo[0.01818] 0[0.01818] n[0.01818] ng[0.01818] va[0.01818] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (346).txt
-loi[0.04800] windows[0.03200] the[0.03200] service[0.03200] cap[0.03200] wmf[0.02400] microsoft[0.02400] dung[0.02400] 5[0.02400] pack[0.02400] tap[0.02400] su[0.01600] internet[0.01600] explorer[0.01600] 4[0.01600] nguy[0.01600] anh[0.01600] hiem[0.01600] truy[0.01600] website[0.01600] chua[0.01600] d[0.01600] y[0.01600] nhat[0.01600] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (347).txt
-bao[0.04762] mat[0.04762] winamp[0.04762] loi[0.03571] cong[0.02976] file[0.02381] hien[0.01786] ma[0.01786] doc[0.01786] he[0.01786] thong[0.01786] 008k[0.01786] com[0.01786] chuyen[0.01786] dong[0.01786] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (348).txt
-adobe[0.07292] loi[0.05208] cs2[0.04167] bao[0.03125] mat[0.03125] dung[0.03125] san[0.02083] pham[0.02083] su[0.02083] dong[0.02083] file[0.02083] cap[0.02083] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/Hackers va Virus/HV_TT_ (349).txt
-bao[0.07237] loi[0.06579] mat[0.06579] the[0.04605] winamp[0.03289] trinh[0.01974] tap[0.01974] may[0.01974] thong[0.01974] playlist[0.01974] dung[0.01974] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (26).txt
-n[0.05344] nh[0.04991] cong[0.03139] vien[0.01517] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (28).txt
-n[0.02297] tap[0.01991] the[0.01838] nang[0.01838] vien[0.01685] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (32).txt
-n[0.02230] truong[0.01859] nam[0.01673] d[0.01580] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (39).txt
-cong[0.03004] ty[0.02583] dau[0.02002] vien[0.01842] tai[0.01822] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (43).txt
-bay[0.03404] me[0.01702] u[0.01621] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (46).txt
-doi[0.02395] truong[0.02275] kiem[0.01677] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (48).txt
-nang[0.02323] tre[0.01935] gia[0.01806] gioi[0.01677] kha[0.01548] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (50).txt
-dau[0.01511] luc[0.01511] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (57).txt
-thoi[0.03582] gian[0.03433] cong[0.03284] ke[0.01642] 
-C:/Users/achung0147/Documents/Visual Studio 2017/Projects/DoanCuoiki - Copy/DoanCuoiki/train/The gioi tre/TGT_TN_ (62).txt
-bao[0.02227] t[0.02015] cong[0.01697] 
-C:/Users/achung0147/Downloads/steveJOBS.txt
-you[0.06780] steve[0.03390] jobs[0.03390] to[0.03390] the[0.03390] all[0.03390] achieve[0.03390] your[0.03390] and[0.03390] delivers[0.01695] an[0.01695] inspirational[0.01695] speech[0.01695] listen[0.01695] end[0.01695] for[0.01695] most[0.01695] life[0.01695] changing[0.01695] quote[0.01695] of[0.01695] time[0.01695] don[0.01695] t[0.01695] let[0.01695] anyone[0.01695] ever[0.01695] tell[0.01695] that[0.01695] cannot[0.01695] dreams[0.01695] will[0.01695] be[0.01695] inspired[0.01695] motivated[0.01695] go[0.01695] out[0.01695] there[0.01695] goals[0.01695] i[0.01695] hope[0.01695] enjoy[0.01695] this[0.01695] motivational[0.01695] video[0.01695] speaker[0.01695] vi[0.01695] dai[0.01695] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (343).txt
+loi[0.07263] bao[0.06145] mat[0.05028] va[0.03911] xuat[0.02793] hien[0.02793] cong[0.02793] mac[0.02793] os[0.02235] x[0.02235] ty[0.01676] kien[0.01676] dot[0.01676] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (344).txt
+mac[0.02586] bluetooth[0.02586] lay[0.02586] may[0.02586] thiet[0.02586] hai[0.02586] 1[0.01724] sau[0.01724] cong[0.01724] os[0.01724] x[0.01724] inqtana[0.01724] loi[0.01724] lo[0.01724] he[0.01724] hanh[0.01724] nhiem[0.01724] tuy[0.01724] nhien[0.01724] danh[0.01724] gia[0.01724] do[0.01724] huong[0.01724] the[0.01724] han[0.01724] virus[0.01724] xu[0.01724] dan[0.01724] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (345).txt
+loi[0.06542] 1[0.04673] bao[0.03738] mat[0.03738] firefox[0.03738] khai[0.03738] thac[0.03738] ma[0.02804] phat[0.02804] 5[0.02804] cong[0.02804] mozilla[0.02804] doan[0.01869] tan[0.01869] nguy[0.01869] the[0.01869] su[0.01869] bo[0.01869] 0[0.01869] nang[0.01869] va[0.01869] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (346).txt
+loi[0.04959] windows[0.03306] the[0.03306] service[0.03306] cap[0.03306] wmf[0.02479] microsoft[0.02479] dung[0.02479] 5[0.02479] pack[0.02479] tap[0.02479] su[0.01653] internet[0.01653] explorer[0.01653] 4[0.01653] nguy[0.01653] anh[0.01653] hiem[0.01653] truy[0.01653] website[0.01653] chua[0.01653] nhat[0.01653] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (347).txt
+bao[0.04819] mat[0.04819] winamp[0.04819] loi[0.03614] cong[0.03012] file[0.02410] hien[0.01807] ma[0.01807] doc[0.01807] he[0.01807] thong[0.01807] 008k[0.01807] com[0.01807] playlist[0.01807] chuyen[0.01807] dong[0.01807] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (348).txt
+adobe[0.07447] loi[0.05319] cs2[0.04255] bao[0.03191] mat[0.03191] dung[0.03191] san[0.02128] pham[0.02128] su[0.02128] dong[0.02128] file[0.02128] cap[0.02128] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Hackers va Virus/HV_TT_ (349).txt
+bao[0.07383] loi[0.06711] mat[0.06711] the[0.04698] winamp[0.03356] trinh[0.02013] tap[0.02013] may[0.02013] thong[0.02013] playlist[0.02013] dung[0.02013] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (26).txt
+nhan[0.06105] cong[0.03354] vien[0.01621] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (28).txt
+nang[0.02560] tap[0.02080] the[0.01920] vien[0.01760] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (32).txt
+truong[0.01976] nam[0.01779] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (39).txt
+cong[0.03071] ty[0.02641] dau[0.02048] vien[0.01884] tai[0.01863] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (43).txt
+bay[0.03532] me[0.01766] thanh[0.01514] may[0.01514] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (46).txt
+doi[0.02475] truong[0.02351] kiem[0.01733] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (48).txt
+nang[0.02520] tre[0.01989] gia[0.01857] gioi[0.01724] kha[0.01592] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (50).txt
+dau[0.01569] luc[0.01569] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (57).txt
+thoi[0.03659] gian[0.03506] cong[0.03354] ke[0.01677] the[0.01524] 
+C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (62).txt
+bao[0.02308] t[0.01758] cong[0.01758] 

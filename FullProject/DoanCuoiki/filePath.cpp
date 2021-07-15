@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <iostream>
 #include <algorithm>
+#include "TOKENSLIST.h"
 
 using namespace std;
 
@@ -47,18 +48,24 @@ string joinPath(string S, string S2) {
 void standardize(wchar_t *wdata, char *&data)
 {
 	int len = wcslen(wdata);
-	data = (char *)malloc(sizeof(char) * (len + 1));
 	const wchar_t dic[] = L"áàảãạÁÀẢÃẠăắằẳẵặĂẮẰẲẴẶâấầẩẫậÂẤẦẨẪẬđĐéèẻẽẹÉÈẺẼẸêếềểễệÊẾỀỂỄỆíìỉĩịÍÌỈĨỊóòỏõọÓÒỎÕỌôốồổỗộÔỐỒỔỖỘơớờởỡợƠỚỜỞỠỢúùủũụÚÙỦŨỤưứừửữựƯỨỪỬỮỰýỳỷỹỵÝỲỸỶỴ";
 	const char replace[] = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaddeeeeeeeeeeeeeeeeeeeeeeiiiiiiiiiioooooooooooooooooooooooooooooooooouuuuuuuuuuuuuuuuuuuuuuyyyyyyyyyy";
 	for (int i = 0; i < len; i++)
 	{
 		const wchar_t *p = wcschr(dic, wdata[i]);
 		if (p != NULL)
-			data[i] = replace[p - dic];
-		else
-			data[i] = (char)towlower(wdata[i]);
+			wdata[i] = replace[p - dic];
+		else {
+			wdata[i] = towlower(wdata[i]);
+			if (int(wdata[i]) > 126) wdata[i] = ' ';
+		}
 	}
-	data[len] = '\0';
+	string res = "";
+	for (int i = 0; i < len; ++i) if (wdata[i] != ' ') res += (char)wdata[i];
+
+	data = (char *)malloc(sizeof(char) * (res.size() + 1));
+	strcpy(data, res.c_str());
+	data[res.size()] = '\0';
 }
 
 string toLowerCase(string S) {
@@ -66,4 +73,38 @@ string toLowerCase(string S) {
 		c = ::tolower(c);
 	});
 	return S;
+}
+
+bool isStopword(wchar_t *word, TOKENSLIST stopwords)
+{
+	for (TOKEN *p = stopwords.pHead; p; p = p->pNext)
+	{
+		if (wcscmp(word, p->wdata) == 0)
+			return true;
+	}
+	return false;
+}
+
+// Hàm tách chuỗi tiếng việt có dấu thành list các token không dấu, loại bỏ stopword
+void getTokens(wchar_t *text, TOKENSLIST &tokens, TOKENSLIST stopwords)
+{
+	//wcout << "Get token for " << text << "\n";
+	freeMemoryTOKENSLIST(tokens);
+
+	const wchar_t *delim = L" `~!@#$%^&*()_–-+=/“[]{}\\|;:'\"<>,.?/\n\t";
+
+	wchar_t *token = wcstok(text, delim);
+
+	while (token)
+	{
+		if (isStopword(token, stopwords) == false)
+		{
+			char *noAccentData = NULL;
+			standardize(token, noAccentData);
+			addTailTOKENSLIST(token, noAccentData, tokens);
+			free(noAccentData);
+			noAccentData = NULL;
+		}
+		token = wcstok(NULL, delim);
+	}
 }

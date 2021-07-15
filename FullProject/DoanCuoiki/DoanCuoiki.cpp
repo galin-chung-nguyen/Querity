@@ -21,6 +21,7 @@
 #include <windows.h>
 #include "fileapi.h"
 #include <tchar.h>
+#include <fstream>
 
 using namespace std;
 
@@ -47,6 +48,7 @@ void extractTokensIntoTextData(TextFile *newFile, char dataLine[]) {
 	lineStream << curLine;
 
 	string tmp;
+
 	while (lineStream >> tmp) { // get each keyword in the line
 		tmp.pop_back();
 		string keyword = "", scoreStr = ""; // keyword[score]
@@ -139,6 +141,7 @@ void loadMetadata(const char* rootDirectory, DataContainer &metadataContainer) {
 int main()
 {
 	setUtf16Mode();
+
 	string rootDirectory = "./"; // this is the root directory which contains index.txt & text files
 
 	TOKENSLIST stopwords; // load stopwords
