@@ -14373,3 +14373,5 @@ add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Thoi trang/TT_VNE
 add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Thoi trang/TT_VNE_ (97).txt
 add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Thoi trang/TT_VNE_ (98).txt
 add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Thoi trang/TT_VNE_ (99).txt
+add|C:/Users/achung0147/Downloads/stevejobs.txt
+delete|C:/Users/achung0147/Downloads/stevejobs.txt

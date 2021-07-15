@@ -58,3 +58,5 @@ add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/Th
 add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (50).txt
 add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (57).txt
 add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (62).txt
+add|C:/Users/achung0147/Downloads/stevejobs.txt
+delete|c:/users/achung0147/downloads/stevejobs.txt

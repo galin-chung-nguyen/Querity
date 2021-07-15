@@ -34,37 +34,34 @@ void setUtf16Mode()
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 /* search engine */
 
-string toString(wstring S) {
-	string res = "";
-	for (int i = 0; i < S.size(); ++i) res += (char)S[i];
-	return res;
-}
-
 void extractTokensIntoTextData(TextFile *newFile, char dataLine[]) {
 	/* start splitting this line into keywords */
-	stringstream lineStream;
 	string curLine(dataLine);
 
-	lineStream << curLine;
-
-	string tmp;
-
-	while (lineStream >> tmp) { // get each keyword in the line
-		tmp.pop_back();
-		string keyword = "", scoreStr = ""; // keyword[score]
-		for (int i = 0, pos = 0; i < tmp.size(); ++i) {
-			if (pos < 1) {
-				if (tmp[i] != '[') keyword += tmp[i];
-				else ++pos;
+	for (int j = 0; j < curLine.size(); ++j) { // get each keyword in the line
+		if (curLine[j] != ' ') {
+			string tmp = "";
+			while (j < curLine.size() && curLine[j] != ' ') {
+				tmp += curLine[j];
+				++j;
 			}
-			else scoreStr += tmp[i];
+			tmp.pop_back();
+			string keyword = "", scoreStr = ""; // keyword[score]
+			for (int i = 0, pos = 0; i < tmp.size(); ++i) {
+				if (pos < 1) {
+					if (tmp[i] != '[') keyword += tmp[i];
+					else ++pos;
+				}
+				else scoreStr += tmp[i];
+			}
+
+			double score = stod(scoreStr); // score of the keyword
+			auto newToken = addHeadTOKENSLIST((wchar_t*)keyword.c_str(), (char *)keyword.c_str(), newFile->tokenList);
+			newToken->occurFrequency = score;
+			//auto hashCode = searchEngineObject::SuperFastHash(keyword.c_str(), keyword.size()); // hashCode of the keyword
+			//newFile->keyWordMap[hashCode] = score;
+			//cout << keyword << " " << score << " ~> " << hashCode << "\n";
 		}
-
-		double score = stod(scoreStr); // score of the keyword
-		auto hashCode = searchEngineObject::SuperFastHash(keyword.c_str(), keyword.size()); // hashCode of the keyword
-
-		newFile->keyWordMap[hashCode] = score;
-		//cout << keyword << " " << score << " ~> " << hashCode << "\n";
 	}
 }
 void loadMetadata(const char* rootDirectory, DataContainer &metadataContainer) {

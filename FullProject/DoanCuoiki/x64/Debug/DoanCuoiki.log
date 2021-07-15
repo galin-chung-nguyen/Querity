@@ -1,25 +1,31 @@
-﻿  DoanCuoiki.cpp
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(117): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(126): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(160): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(223): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(219): note: see declaration of 'wcstok'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(233): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(219): note: see declaration of 'wcstok'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(79): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(80): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  filePath.cpp
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\filepath.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\filepath.cpp(67): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\filepath.cpp(96): warning C4996: 'wcstok': wcstok has been changed to conform with the ISO C standard, adding an extra context parameter. To use the legacy Microsoft wcstok, define _CRT_NON_CONFORMING_WCSTOK.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(254): note: see declaration of 'wcstok'
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\filepath.cpp(108): warning C4996: 'wcstok': wcstok has been changed to conform with the ISO C standard, adding an extra context parameter. To use the legacy Microsoft wcstok, define _CRT_NON_CONFORMING_WCSTOK.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(254): note: see declaration of 'wcstok'
+  DoanCuoiki.cpp
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(181): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(219): note: see declaration of 'wcstok'
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\searchengine.h(191): warning C4996: 'wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstring.h(219): note: see declaration of 'wcstok'
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(60): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(77): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(92): warning C4101: 'tmp': unreferenced local variable
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(77): warning C4101: 'line': unreferenced local variable
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(163): warning C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: see declaration of 'strcpy'
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(89): warning C4101: 'tmp': unreferenced local variable
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(74): warning C4101: 'line': unreferenced local variable
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(160): warning C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(930): note: see declaration of 'wscanf'
-c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(168): warning C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\achung0147\desktop\doancuoikythktlt\fullproject\doancuoiki\doancuoiki.cpp(165): warning C4996: 'wscanf': This function or variable may be unsafe. Consider using wscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\corecrt_wstdio.h(930): note: see declaration of 'wscanf'
+  Generating Code...
   DoanCuoiki.vcxproj -> C:\Users\achung0147\Desktop\doAnCuoiKyTHKTLT\FullProject\x64\Debug\DoanCuoiki.exe
   DoanCuoiki.vcxproj -> C:\Users\achung0147\Desktop\doAnCuoiKyTHKTLT\FullProject\x64\Debug\DoanCuoiki.pdb (Partial PDB)

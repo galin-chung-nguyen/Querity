@@ -30,3 +30,4 @@ void showTOKENSLIST(TOKENSLIST list);
 void mergeTOKENSLIST(TOKENSLIST list1, TOKENSLIST list2, TOKENSLIST &result);
 void halfSplitTOKENSLIST(TOKENSLIST origin, TOKENSLIST &half1, TOKENSLIST &half2);
 void mergeSortTOKENSLIST(TOKENSLIST &list);
+int cmpTwoTokens(TOKEN *a, TOKEN *b);

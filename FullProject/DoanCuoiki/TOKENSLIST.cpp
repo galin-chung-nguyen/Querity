@@ -162,4 +162,8 @@ void mergeSortTOKENSLIST(TOKENSLIST &list)
     freeMemoryTOKENSLIST(half2);
 }
 
+int cmpTwoTokens(TOKEN *a, TOKEN *b){
+	return strcmp(a->data, b->data);
+}
+
 //****************************************************************************

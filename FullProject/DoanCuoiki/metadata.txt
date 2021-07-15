@@ -118,3 +118,5 @@ C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gi
 thoi[0.03659] gian[0.03506] cong[0.03354] ke[0.01677] the[0.01524] 
 C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/FullProject/DoanCuoiki/train/The gioi tre/TGT_TN_ (62).txt
 bao[0.02308] t[0.01758] cong[0.01758] 
+C:/Users/achung0147/Downloads/stevejobs.txt
+you[0.06780] steve[0.03390] jobs[0.03390] to[0.03390] the[0.03390] all[0.03390] achieve[0.03390] your[0.03390] and[0.03390] delivers[0.01695] an[0.01695] inspirational[0.01695] speech[0.01695] listen[0.01695] end[0.01695] for[0.01695] most[0.01695] life[0.01695] changing[0.01695] quote[0.01695] of[0.01695] time[0.01695] don[0.01695] t[0.01695] let[0.01695] anyone[0.01695] ever[0.01695] tell[0.01695] that[0.01695] cannot[0.01695] dreams[0.01695] will[0.01695] be[0.01695] inspired[0.01695] motivated[0.01695] go[0.01695] out[0.01695] there[0.01695] goals[0.01695] i[0.01695] hope[0.01695] enjoy[0.01695] this[0.01695] motivational[0.01695] video[0.01695] speaker[0.01695] vi[0.01695] dai[0.01695] 
