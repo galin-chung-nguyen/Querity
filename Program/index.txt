@@ -1,0 +1,60 @@
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1573).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1574).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1575).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1576).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1577).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1578).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1579).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1580).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1581).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Bong da/BD_VNE_ (1582).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (1).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (134).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (2).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (34).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (54).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (67).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (71).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (77).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (80).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Chung khoan/CK_VNE_ (98).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (122).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (137).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (147).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (195).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (207).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (211).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (235).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (272).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (323).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Giai tri tin hoc/GTTH_TT_ (344).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (289).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (290).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (291).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (292).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (293).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (294).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (295).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (296).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (297).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Gioi tinh/GT_NLD_ (298).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (340).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (341).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (342).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (343).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (344).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (345).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (346).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (347).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (348).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/Hackers va Virus/HV_TT_ (349).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (26).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (28).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (32).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (39).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (43).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (46).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (48).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (50).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (57).txt
+add|C:/Users/achung0147/Desktop/doAnCuoiKyTHKTLT/Program/train/The gioi tre/TGT_TN_ (62).txt
